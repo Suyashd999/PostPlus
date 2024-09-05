@@ -1,0 +1,18 @@
+{
+    "325101": {
+        "number_plate": "MH 12 WB 5774",
+        "max_volume": 20000,
+        "max_weight": 1000,
+        "current_volume": 0.0,
+        "current_weight": 0.0,
+        "threshold_volume": 10,
+        "warehouse_stops": [
+            "pune",
+            "Delhi",
+            "bangalore"
+        ],
+        "dispatched_from": "pune",
+        "heading_to": "Delhi",
+        "filled_capacity": 0
+    }
+}
